@@ -7,7 +7,7 @@
 
   ```javascript
   const Maximo4ever = {
-    desarrollo: "Frontend",
+    desarrollador: "Frontend",
     codigo: [ HTML, CSS, Javascript, Python ],
     herramientas: [ VSCode, Vue, React, Terminal, Git ],
     reto: "Aprender React a fondo y su entorno.",
