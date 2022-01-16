@@ -30,7 +30,7 @@
 <div align="start">
   <a href="https://github.com/maximo-4ever">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximo-4ever&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-4ever&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-4ever&layout=compact&langs_count=7&theme=tokyonight&hide=typescript"/>
 </div>
   
  <div> 
