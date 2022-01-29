@@ -1,6 +1,6 @@
 <h1>Hola, mi nombre es Eduardo Maximiliano 👋👨‍💻</h1>
 
-<h3> Soy Desarrollador Frontend que esta constantemente aprendiendo tecnologias nuevas!</h3>
+<h3>Soy un Creativo y entusiasta Desarrollador Web Front-End que está constantemente aprendiendo nuevas tecnologías y habilidades con un gran gusto en el Diseño UX/UI</h3>
 
 <div align="start" width="100%">
   <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="200">
