@@ -10,7 +10,7 @@
     desarrollador: "Frontend",
     codigo: [ HTML, CSS, Javascript, Python ],
     herramientas: [ VSCode, Vue, React, Terminal, Git ],
-    reto: "Aprender React a fondo y su entorno.",
+    reto: "Aprender web 3.0 a fondo y su entorno.",
     hobbies: ["Programar", "Estudiar", "Jugar videojuegos"]
   };
   ```
