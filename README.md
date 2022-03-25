@@ -1,6 +1,6 @@
 <h1>Hola, mi nombre es Eduardo Maximiliano 👋👨‍💻</h1>
 
-<h3>Soy un Creativo y entusiasta Desarrollador Web Front-End que está constantemente aprendiendo nuevas tecnologías y habilidades con un gran gusto en el Diseño UX/UI</h3>
+<p>Entusiasta y apasionado Desarrollador Web especializado en el Front-End que está constantemente aprendiendo nuevas tecnologías y habilidades con más de un año de experiencia creando y desarrollando páginas, aplicaciones, proyectos e ideas, con un gran gusto creativo en el Diseño UX/UI.</p>
 
 <div align="start" width="100%">
   <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="200">
@@ -30,7 +30,7 @@
 <div align="start">
   <a href="https://github.com/maximo-4ever">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximo-4ever&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-4ever&layout=compact&langs_count=7&theme=tokyonight&hide=typescript"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-4ever&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
  <div> 
