@@ -10,7 +10,7 @@
     desarrollador: "Frontend",
     codigo: [ HTML, CSS, Javascript, Python ],
     herramientas: [ VSCode, Vue, React, Terminal, Git ],
-    reto: "Aprender web 3.0 a fondo y su entorno.",
+    reto: "Aprender sobre la web 3.0",
     hobbies: ["Programar", "Estudiar", "Jugar videojuegos"]
   };
   ```
@@ -29,8 +29,8 @@
 <h2>Estadisticas 💻</h2>
 <div align="start">
   <a href="https://github.com/maximo-4ever">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximo-4ever&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-4ever&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximo4ever&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo4ever&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
  <div> 
