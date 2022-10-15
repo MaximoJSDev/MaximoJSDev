@@ -1,28 +1,33 @@
 <h1>Hola, mi nombre es Eduardo Maximiliano 👋👨‍💻</h1>
 
-<p>Entusiasta y apasionado Desarrollador Web especializado en el Front-End que está constantemente aprendiendo nuevas tecnologías y habilidades con más de un año de experiencia creando y desarrollando páginas, aplicaciones, proyectos e ideas, con un gran gusto creativo en el Diseño UX/UI.</p>
-
-<div align="start" width="100%">
-  <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="200">
+<p>Entusiasta y apasionado Desarrollador Web especializado en el Front-End que está constantemente aprendiendo nuevas tecnologías y habilidades con más de un año de experiencia creando y desarrollando páginas, aplicaciones, proyectos e ideas, con un gran gusto creativo en el Diseño UI/UX.</p>
 
   ```javascript
   const Maximo4ever = {
-    desarrollador: "Frontend",
-    codigo: [ HTML, CSS, Javascript, Python ],
-    herramientas: [ VSCode, Vue, React, Terminal, Git ],
+    desarrollador: "Front-End",
+    codigo: [ HTML, CSS, JavaScript, Nodejs ],
+    db: [ MongoDB, MySQL, Firebase, Supabase ],
+    herramientas: [ VSCode, Vue, React, Git, Figma ],
     reto: "Aprender sobre la web 3.0",
-    hobbies: ["Programar", "Estudiar", "Jugar videojuegos"]
+    hobbies: ["Programar", "Leer", "Jugar videojuegos"]
   };
   ```
-</div>
   
 <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Nuxt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 <br>
 
