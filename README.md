@@ -3,7 +3,7 @@
 <p>Entusiasta y apasionado Desarrollador Web especializado en el Front-End que está constantemente aprendiendo nuevas tecnologías y habilidades con más de un año de experiencia creando y desarrollando páginas, aplicaciones, proyectos e ideas, con un gran gusto creativo en el Diseño UI/UX.</p>
 
   ```javascript
-  const Maximo4ever = {
+  const MaximoJSDev = {
     desarrollador: "Front-End",
     codigo: [ HTML, CSS, JavaScript, Nodejs ],
     db: [ MongoDB, MySQL, Firebase, Supabase ],
@@ -33,18 +33,18 @@
 
 <h2>Estadisticas 💻</h2>
 <div align="start">
-  <a href="https://github.com/maximo-4ever">
+  <a href="https://github.com/MaximoJSDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maximo4ever&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo4ever&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
  <div> 
      <a href="https://www.linkedin.com/in/eduardo-maximiliano-90432921a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/Maximo4ever" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/Maximo_4ever" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/MaximoJSDev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://twitter.com/MaximoJSDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:maximilianocm06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
  
-  ![Snake animation](https://github.com/Maximo-4ever/Maximo-4ever/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MaximoJSDev/MaximoJSDev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
