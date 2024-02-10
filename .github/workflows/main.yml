@@ -1,6 +1,7 @@
-name: generate snake animation
+name: manual run
 
-on: [push]
+on:
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -10,12 +11,19 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/only-svg/github-contribution-grid-snake.svg
+            dist/only-svg/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/docker/github-contribution-grid-snake.svg
-            dist/docker/github-contribution-grid-snake-dark.svg
+            dist/docker/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/docker/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
       - name: ensure the generated file exists
